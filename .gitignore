@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin
+/CodingArchitect.Spikes.WindsorWcfServiceClient/bin/Debug
+/CodingArchitect.Spikes.WindsorWcfServiceClient/obj/Debug
+/obj/Debug
+/packages

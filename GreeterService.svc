@@ -1,0 +1,3 @@
+﻿<%@ ServiceHost  
+    Service="CodingArchitect.Spikes.WindsorWcfService.IGreeterService, CodingArchitect.Spikes.WindsorWcfService" 
+    Factory="Castle.Facilities.WcfIntegration.DefaultServiceHostFactory, Castle.Facilities.WcfIntegration" %>

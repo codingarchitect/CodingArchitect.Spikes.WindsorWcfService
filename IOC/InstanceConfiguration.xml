@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <components>
+    <component 
+      id="GreeterService" 
+      service="CodingArchitect.Spikes.WindsorWcfService.IGreeterService, CodingArchitect.Spikes.WindsorWcfService" 
+      type="CodingArchitect.Spikes.WindsorWcfService.GreeterService, CodingArchitect.Spikes.WindsorWcfService" lifestyle="transient" />
+    <component 
+      id="Greeter" 
+      service="CodingArchitect.Spikes.WindsorWcfService.IGreeter, CodingArchitect.Spikes.WindsorWcfService" 
+      type="CodingArchitect.Spikes.WindsorWcfService.Greeter, CodingArchitect.Spikes.WindsorWcfService" lifestyle="transient" />
+  </components>
+</configuration>
