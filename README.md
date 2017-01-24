@@ -1,0 +1,2 @@
+# CodingArchitect.Spikes.WindsorWcfService
+CodingArchitect.Spikes.WindsorWcfService
